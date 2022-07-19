@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @GK-M
-- 👀 I’m interested in laravel
+- 👋 Hi, I’m Gontos Kendali Manik
+- 👀 I’m interested in laravel,python,javascript,reactjs
 - 🌱 I’m currently learning laravel
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me in Jl.Pandawa no.206 Districts Singosaren,Bantul DIY Yogyakarta
 
 <!---
 GK-M/GK-M is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
