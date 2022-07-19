@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Gontos Kendali Manik
 - 👀 I’m interested in laravel,python,javascript,reactjs
 - 🌱 I’m currently learning laravel
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me in Jl.Pandawa no.206 Districts Singosaren,Bantul DIY Yogyakarta
 
 <!---
